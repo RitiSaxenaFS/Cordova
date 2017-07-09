@@ -398,7 +398,8 @@ var LoginService = (function () {
     function LoginService(http) {
         this.http = http;
         // https://api.myjson.com/bins/wdrv3  user data saved globally
-        this.usersUrl = 'http://localhost:3000/api/users';
+        // private usersUrl = 'http://localhost:3000/api/users';
+        this.usersUrl = 'https://api.myjson.com/bins/qjgvj';
     }
     LoginService.prototype.getUsers = function () {
         return this.http.get(this.usersUrl)

@@ -31,24 +31,24 @@
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
     <platform name="android">
-        <icon density="ldpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <icon density="mdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <icon density="hdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <icon density="xhdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <icon density="xxhdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <icon density="xxxhdpi" src="www/res/icon/android/icon-96-xhdpi.png" />
-        <splash density="land-ldpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="land-mdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="land-hdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="land-xhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="land-xxhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="land-xxxhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-ldpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-mdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-hdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-xhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-xxhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
-        <splash density="port-xxxhdpi" src="www/res/screen/android/icon-96-xhdpi.png" />
+        <icon density="ldpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <icon density="mdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <icon density="hdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <icon density="xhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <icon density="xxhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <icon density="xxxhdpi" src="res/icon/android/icon-96-xhdpi.png" />
+        <splash density="land-ldpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="land-mdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="land-hdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="land-xhdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="land-xxhdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="land-xxxhdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-ldpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-mdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-hdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-xhdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-xxhdpi" src="res/screen/android/icon-96-xhdpi.png" />
+        <splash density="port-xxxhdpi" src="res/screen/android/icon-96-xhdpi.png" />
     </platform>
     <platform name="ios">
         <icon height="57" platform="ios" src="www/res/icon/ios/icon.png" width="57" />
